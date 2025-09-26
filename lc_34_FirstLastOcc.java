@@ -27,7 +27,7 @@ class Solution {
         return ans;
     }
 
-    public int[] searchRange(int[] arr, int target) {
+    public int[] lc_34_FirstLastOcc(int[] arr, int target) {
         int n = arr.length;
         int first=first(arr,0,n-1,target);
         int last=last(arr,0,n-1,target);
