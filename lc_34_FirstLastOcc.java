@@ -1,4 +1,4 @@
- class Solution {
+  class Solution {
     private int first(int[] arr, int s ,int e,int x){
         int ans=-1;
         while(s<=e){
