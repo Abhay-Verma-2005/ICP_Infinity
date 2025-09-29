@@ -20,7 +20,7 @@ This repo focuses on:
 ## Assignment Completion Bar Graph
 `Assignment 1: ████████░░░ 2/3` <br>
 `Assignment 2: ██████████ 3/3`  <br>
-`Assignment 3: ███░░░░░░░ 1/3` <br>
+`Assignment 3: ████████░░░ 2/3` <br>
 ---
 
 ## Lecture Completion Progress
