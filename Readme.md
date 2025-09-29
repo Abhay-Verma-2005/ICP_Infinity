@@ -34,15 +34,7 @@ This repo focuses on:
 
 *(Update as more days are completed)*
 
----
 
-## Assignment Completion Progress
-
-| Assignment   | Completion |
-|--------------|------------|
-| Assignment 1 | 2 / 3 ✅   |
-| Assignment 2 | 3 / 3 ✅   |
-| Assignment 3 | 1 / 3 ⬜   |
 
 ---
 
