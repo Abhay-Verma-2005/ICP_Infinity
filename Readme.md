@@ -17,6 +17,10 @@ This repo focuses on:
 
 📌 New day folders can be added anytime — the README remains constant as a general description of the project.
 
+## Assignment Completion Bar Graph
+`Assignment 1: ████████░░░ 2/3` <br>
+`Assignment 2: ██████████ 3/3`  <br>
+`Assignment 3: ███░░░░░░░ 1/3` <br>
 ---
 
 ## Lecture Completion Progress
@@ -42,10 +46,7 @@ This repo focuses on:
 
 ---
 
-## Assignment Completion Bar Graph
-`Assignment 1: ████████░░░ 2/3
-Assignment 2: ██████████ 3/3
-Assignment 3: ███░░░░░░░ 1/3`
+
 
 
 ---
