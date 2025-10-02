@@ -32,6 +32,8 @@ This repo focuses on:
 | Day1 | ✅          |       |
 | Day2 | ✅          |       |
 | Day3 | ✅          |       |
+| Day4 | ✅          |       |
+| Day5 | ✅          |       |
 
 
 *(Update as more days are completed)*
