@@ -23,6 +23,7 @@ This repo focuses on:
 `Assignment 3: ████████░░░ 2/3` <br>
 `Assignment 4: █████████░░ 4/5` <br>
 `Assignment 5: █████████░░ 4/5` <br>
+`Assignment 6: ████░░░░░░░ 1/3` <br>
 ---
 
 ## Lecture Completion Progress
