@@ -23,7 +23,8 @@ This repo focuses on:
 `Assignment 3: ████████░░░ 2/3` <br>
 `Assignment 4: █████████░░ 4/5` <br>
 `Assignment 5: █████████░░ 4/5` <br>
-`Assignment 6: ████░░░░░░░ 1/3` <br>
+`Assignment 6: ███████████ 3/3` <br>
+`Assignment 7: ███████████ 3/3` <br>
 ---
 
 ## Lecture Completion Progress
@@ -35,6 +36,8 @@ This repo focuses on:
 | Day3 | ✅          |       |
 | Day4 | ✅          |       |
 | Day5 | ✅          |       |
+| Day6 | ✅          |   A   |
+| Day7 | ✅          |       |
 
 
 *(Update as more days are completed)*
