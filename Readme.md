@@ -47,7 +47,24 @@ This repo focuses on:
 ---
 
 
+<!-- Hollow Sphere (Circular) Progress Graph -->
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <svg width="160" height="160" viewBox="0 0 120 120">
+    <!-- Background Circle -->
+    <circle cx="60" cy="60" r="50" stroke="#e5e7eb" stroke-width="10" fill="none" />
 
+    <!-- Progress Circle -->
+    <circle cx="60" cy="60" r="50" stroke="#3b82f6" stroke-width="10" fill="none"
+      stroke-dasharray="314" stroke-dashoffset="calc(314 - (314 * 75) / 100)" stroke-linecap="round" />
+
+    <!-- Percentage Text -->
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="22" fill="#3b82f6">75%</text>
+  </svg>
+</div>
+
+<!-- You can update 75 in stroke-dashoffset and text to show real % dynamically -->
+<!-- Formula: stroke-dashoffset = totalCircumference - (totalCircumference * percentage / 100) -->
+<!-- totalCircumference = 2 * π * r = 2 * π * 50 = 314 -->
 
 ---
 
